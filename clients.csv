@@ -1,0 +1,37 @@
+clientNumber,clientName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,postalCode,country,region,RepEmployeeNumber,financialCapacity
+1000,MedicoCorp,Nowak,Anna,+62190174849,37 Berlin Business Street,Suite 13,Berlin,72196,Germany,Europe,2006,4978039.34
+1001,FinTrust,Brown,James,+33450250236,195 New York Business Street,Suite 48,New York,27808,USA,North America,2014,5126710.8
+1002,RetailHub,Smith,Laura,+56665834303,160 Barcelon Business Street,Suite 14,Barcelon,36999,Spain,Europe,2009,4582222.03
+1003,TechNova,Kowalski,Piotr,+40385594384,132 Warsaw Business Street,Suite 50,Warsaw,41626,Poland,Europe,2013,5311036.52
+1004,HealthPlus,Müller,Erik,+93941259460,184 Dubai Business Street,Suite 18,Dubai,28040,UAE,Middle East,2008,2654787.65
+1005,DataSoft,Chen,Li,+39536348680,50 Pekin Business Street,Suite 25,Pekin,61533,China,Asia,2008,1734080.09
+1006,FinEdge,Garcia,Maria,+65957092567,1 Madrid Business Street,Suite 1,Madrid,35894,Spain,Europe,2005,4956897.16
+1007,ShopEase,Rossi,Luca,+82790468845,96 Milan Business Street,Suite 38,Milan,66900,Italy,Europe,2016,1800169.78
+1008,HealthCore,Novak,Ivan,+74478737905,191 Paris Business Street,Suite 49,Paris,72986,France,Europe,2004,1452370.02
+1009,GlobalBank,Ali,Omar,+57820776779,58 Miami Business Street,Suite 40,Miami,33173,USA,North America,2003,4248674.7
+1010,FinAnalytics,Johnson,Mark,+92971973025,148 New York Business Street,Suite 36,New York,12925,USA,North America,2016,926479.24
+1011,NextGenTech,Singh,Raj,+35726147015,138 Dubai Business Street,Suite 24,Dubai,77417,UAE,Middle East,2014,3310742.77
+1012,UrbanRetail,Lopez,Carlos,+39722713367,80 Mexico Business Street,Suite 9,Mexico,15385,Mexico,North America,2012,2183258.03
+1013,PharmaLife,Kim,Soo,+64317358759,156 Tokyo Business Street,Suite 9,Tokyo,64911,Japan,Asia,2002,4562486.19
+1014,SecureFin,Andersson,Lars,+61279237022,94 Rio Business Street,Suite 46,Rio,98897,Brazil,South America,2002,1863458.56
+1015,CloudNet,Petrov,Alex,+33960494774,61 London Business Street,Suite 13,London,49877,UK,Europe,2015,3224525.14
+1016,QuickShop,White,Emma,+49973595589,132 Paris Business Street,Suite 27,Paris,94261,France,Europe,2001,3738063.82
+1017,MedFuture,Dupont,Jean,+88920705768,156 Warsaw Business Street,Suite 29,Warsaw,99385,Poland,Europe,2003,1971315.29
+1018,FinSecure,Silva,Paulo,+43791617377,49 Dubai Business Street,Suite 14,Dubai,40013,UEA,Middle East,2006,3955500.76
+1019,TechWorld,Nguyen,Minh,+63532690948,145 Sao Paulo Business Street,Suite 5,Sao Paulo,44271,Brazil,South America,2001,3745030.28
+1020,BioHealth,Khan,Sara,+31753766130,13 Strasbourg  Business Street,Suite 30,Strasbourg,79200,Germany,Europe,2001,2483454.65
+1021,RetailPro,Wilson,David,+41269039178,101 London Business Street,Suite 17,London,78035,UK,Europe,2003,3672557.11
+1022,SmartFinance,Popescu,Elena,+92989876649,167 Doha Business Street,Suite 30,Doha,51217,Qatar,Middle East,2007,3919079.19
+1023,InnoTech,Taylor,Tom,+40398719651,105 LisbonBusiness Street,Suite 28,Lisbon,39772,Portugal,Europe,2007,4290993.81
+1024,CarePlus,Ivanova,Nina,+79852867842,165 Warsaw Business Street,Suite 42,Warsaw,72505,Poland,Europe,2007,5889432.09
+1025,DigitalWave,Lee,Chris,+64584616681,156 Delhi Business Street,Suite 25,Delhi,92654,India,Asia,2002,4430875.1
+1026,PrimeRetail,Santos,Olga,+76770421586,86 Santiago Business Street,Suite 21,Santiago,57363,Chile,South America,2005,2535625.86
+1027,AlphaBank,Martinez,Daniel,+71360826275,82 Buenos Aires Business Street,Suite 13,Buenos Aires,96478,Argentina,South America,2008,4928678.12
+1028,FutureTech,Costa,Sophia,+48563602674,162 Rome Business Street,Suite 20,Rome,55088,Italy,Europe,2011,1946754.98
+1029,GreenHealth,Hassan,Ali,+76939556553,60 Cairo Business Street,Suite 43,Cairo,21119,Egypt,Africa,2015,2893952.09
+1030,OmniRetail,Zielinski,Marta,+35865285041,133 Mosca Business Street,Suite 5,Mosca,23006,Russia,Europe,2013,4216957.07
+1031,VisionFinance,Kovacs,Victor,+38424084053,70 Bucarest Business Street,Suite 24,Bucarest,88799,Romania,Europe,2016,1016088.77
+1032,BlueTech,Marin,Julia,+36656683330,105 Paris Business Street,Suite 22,Paris,92261,France,Europe,2008,2320361.77
+1033,CityHealth,Schmidt,Robert,+73972445496,60 New York Business Street,Suite 10,New York,97041,USA,North America,2003,4182943.39
+1034,MegaStore,Moretti,Isabella,+69973969988,177 Bologna Business Street,Suite 48,Bologna,65695,Italy,Europe,2003,1119337.81
+1035,CoreBank,Rahman,Hassan,+37808558433,86 Rabat Business Street,Suite 17,Rabat,71763,Morocco,Africa,2013,2867984.52
